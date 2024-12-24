@@ -58,6 +58,7 @@ void manualInputEdges(int** graph, int nodes, bool isDirected) {
     }
 }
 
+
 // Функция для случайной генерации рёбер
 void randomInputEdges(int** graph, int nodes, bool isDirected) {
     int maxWeight;
